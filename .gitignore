@@ -1,0 +1,7 @@
+# Build outputs of main.ts (recreated with MAKEFUN_OUTPUT_DIR=out node main.ts).
+out/
+out2/
+# The downloaded kit lives beside the repo, never in it.
+gta6-cover-art-01-kit/
+kit/
+kit.tar.gz
